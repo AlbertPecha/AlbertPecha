@@ -2,7 +2,7 @@
   <tr>
     <td width="80%" align="left">
       <h1>Hi 👋! My name is Albert Pecharromán</h1>
-      <p>I'm from Barcelona, Spain 🇪🇸</p>
+      <p> I'm a developer based in <b>Barcelona, Spain 🇪🇸</b>. I love turning ideas into code and building clean, functional digital experiences. Currently, my toolkit includes: </p>
     </td>
     <td width="20%" align="right">
       <img src="https://media.licdn.com/dms/image/v2/D4E03AQGtfJ_zloDM5g/profile-displayphoto-scale_200_200/B4EZv8UWt1JkAY-/0/1769464753988?e=2147483647&v=beta&t=5ji64JPR6RePUhYdBvL4gN3FU1q-ZQuWhrAxop5Hx8Q" width="130" style="border-radius: 15px;" />
