@@ -34,20 +34,4 @@
     <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="discord">
   </a>
 </div>
-
-###
-
-<div align="left">
-  <img src="https://www.instagram.com/albertpecha" height="35" alt="instagram logo"  />
-  <img src="" height="35" alt="discord logo"  />
-  <img src="" height="35" alt="gmail logo"  />
-  <img src="" height="35" alt="linkedin logo"  />
-</div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/snake-output/snake.svg" alt="Snake animation" />
-
 ###
