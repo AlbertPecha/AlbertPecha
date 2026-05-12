@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Albert Pecharromán Vilamitjana and I'm a ..., from ....</h2>
+<h2 align="left">Hi 👋! My name is Albert Pecharromán Vilamitjana and I'm a Barceñpma, from Spain</h2>
 
 ###
 
