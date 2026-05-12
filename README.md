@@ -12,15 +12,6 @@
 
 ---
 
-### 📊 Mi actividad en GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlbertPecha&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlbertPecha&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="languages graph" />
-</div>
-
----
-
 ### 🛠️ Tecnologías
 
 <p align="left">
